@@ -1,0 +1,50 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question": "What is the name of the extra pedal on a manual or standard transmission car?",
+        "correct_answer": "Clutch",
+        "incorrect_answers": ["Shifter", "Booster", "Parking Brake"]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "The acronym DOTA stands for",
+        "correct_answer": "Defense of the Ancients",
+        "incorrect_answers": [
+            "Defense of the Artifacts",
+            "Defense of the Antiques",
+            "Defense of the Animated"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "In &quot;Battle Cats&quot;, what is Moneko / MISS Moneko&#039;s critical percentage rate?",
+        "correct_answer": "15%",
+        "incorrect_answers": ["20%", "10%", "25%"]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "When was Left 4 Dead 2 released?",
+        "correct_answer": "November 17, 2009",
+        "incorrect_answers": [
+            "May 3, 2008",
+            "November 30, 2009",
+            "June 30, 2010"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How many sovereign states are members of the United Nations?",
+        "correct_answer": "195",
+        "incorrect_answers": ["201", "153", "178"]
+    }
+]
